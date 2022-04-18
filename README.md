@@ -15,3 +15,9 @@
 <img width="" height="" src="./pic/m.png"></img>
 <img width="" height="" src="./pic/실행화면1.png"></img>
 <img width="" height="" src="./pic/실행화면2.png"></img>
+
+## 6주차 과제
+<img width="" height="" src="./pic/6st_1.png"></img>
+<img width="" height="" src="./pic/6st_2.png"></img>
+<img width="" height="" src="./pic/6st_3.png"></img>
+<img width="" height="" src="./pic/6st_4.png"></img>
