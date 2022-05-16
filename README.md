@@ -22,3 +22,13 @@
 
 <img width="" height="" src="./pic/6st_3.png"></img>
 <img width="" height="" src="./pic/6st_4.png"></img>
+
+## 10주차 과제
+<img width="" height="" src="./pic/10st_실행1.png"></img>
+<img width="" height="" src="./pic/10st_실행2.png"></img>
+
+<img width="" height="" src="./pic/10st_실행3.png"></img>
+<img width="" height="" src="./pic/10st_실행4.png"></img>
+
+<img width="" height="" src="./pic/10st_코드1.png"></img>
+<img width="" height="" src="./pic/10st_코드2.png"></img>
