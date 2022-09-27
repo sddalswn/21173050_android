@@ -48,3 +48,5 @@
 ## 5주차(2022-09-27)
 <img width="" height="" src="./pic/이미지바꾸기1.png"></img>
 <img width="" height="" src="./pic/이미지바꾸기2.png"></img>
+
+<img width="" height="" src="./pic/이름번호학번.png"></img>
